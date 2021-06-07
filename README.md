@@ -12,9 +12,9 @@
 
 
 관심분야
-*생물정보학
+* 생물정보학
 * **인공지능**
-*의료정보학
+* 의료정보학
 
 프로그래밍 언어 스킬
 1. C
@@ -31,6 +31,8 @@
 |Java 프로그래밍|Java 개요|3|
 |소프트웨어 세미나1|최신 소프트웨어 트랜드|1|
 
+github address : [P-JW][github]
 
+[github]:http//gitub.com/parkjangwoo-jw
 
 
